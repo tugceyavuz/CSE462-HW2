@@ -10,6 +10,8 @@ Hold right click and WASD for movement. E for upwards Q for downwards.
 - Red points are 𝑃 = {𝑃1, … , 𝑃𝑖, … , 𝑃𝑛}
 - Blue points are 𝑄 = {𝑄1, … ,𝑄𝑖, … ,𝑄𝑚}
 - Green points are the point cloud achieved after calculated transformation applied.
+- White lines represents transformed points movement between P to Q
+- Purple lines represents transformed points movement between P to new created pointcloud points
 
   In project files;
     - File1.txt contains points P
