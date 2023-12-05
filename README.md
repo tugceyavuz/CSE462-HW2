@@ -1,5 +1,7 @@
 # CSE462-HW2
-GTÜ CSE462 HW2 Unity Application to Align Two Point-Cloud Data.
+GTÜ CSE462/562 – Augmented Reality (Fall 2023)  
+HW2 Unity Application to Align Two Point-Cloud Data.
+
 [Homework2.pdf](https://github.com/tugceyavuz/CSE462-HW2/files/13549461/Homework2.pdf)
 
 In game camera controls:
